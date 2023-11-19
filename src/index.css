@@ -19,6 +19,9 @@ a {
   color: #e894a7;
 }
 
+main {
+  padding: 30px 0;
+}
 .weather-app {
   background: pink;
   max-width: 750px;
