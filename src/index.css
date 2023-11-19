@@ -1,3 +1,7 @@
 body {
   background-color: palevioletred;
 }
+.weather-app {
+  background: pink;
+  max-width: 600 px;
+}
