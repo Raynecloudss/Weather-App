@@ -38,6 +38,26 @@ main {
   padding: 30px;
 }
 
+.weather-app-temp {
+  font-size: 88px;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.weather-app-icon {
+  font-size: 44px;
+  margin-top: 22px;
+}
+
+.weather-app-unit {
+  margin-top: 16px;
+  font-size: 28px;
+}
+
+.weather-temp-container {
+  display: flex;
+}
+
 .weather-app-details {
   font-size: 16px;
   font-weight: 500;
