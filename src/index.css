@@ -7,4 +7,5 @@ body {
   margin: 30px auto;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   padding: 30px;
+  border-radius: 20px;
 }
