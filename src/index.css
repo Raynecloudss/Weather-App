@@ -98,3 +98,7 @@ main {
   border-radius: 6px;
   font-size: 18px;
 }
+
+.row {
+  display: flex;
+}
