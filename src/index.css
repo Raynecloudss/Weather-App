@@ -43,6 +43,7 @@ main {
 .weather-app-temperature {
   font-size: 88px;
   margin-left: 10px;
+  font-weight: bolder;
 }
 
 .weather-app-temperature-container {
@@ -57,6 +58,7 @@ main {
 .weather-app-unit {
   margin-top: 16px;
   font-size: 28px;
+  font-weight: bolder;
 }
 
 .weather-temp-container {
