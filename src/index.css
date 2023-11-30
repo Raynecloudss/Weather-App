@@ -99,7 +99,30 @@ main {
   font-size: 18px;
 }
 
-.col-2 column {
+.column {
   display: flex;
   flex-direction: column;
+}
+
+.weather-forecast {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.weather-forecast-icon {
+  display: block;
+  margin: 0 auto;
+}
+
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.6;
+}
+
+.weather-forecast-temp {
+  font-size: 13px;
+}
+
+.weather-forecast-temp-min {
+  opacity: 0.6;
 }
