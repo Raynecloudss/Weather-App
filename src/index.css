@@ -99,6 +99,7 @@ main {
   font-size: 18px;
 }
 
-.row {
+.col-2 column {
   display: flex;
+  flex-direction: column;
 }
