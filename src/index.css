@@ -110,8 +110,8 @@ main {
 }
 
 .weather-forecast-icon {
-  display: block;
-  margin: 0 auto;
+  font-size: 38px;
+  text-align: center;
 }
 
 .weather-forecast-date {
@@ -120,9 +120,13 @@ main {
 }
 
 .weather-forecast-temp {
-  font-size: 13px;
+  padding: 0 10px;
 }
 
-.weather-forecast-temp-min {
-  opacity: 0.6;
+.weather-forecast-temps {
+  text-align: center;
+  color: #f65282;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
 }
