@@ -107,6 +107,12 @@ main {
 .weather-forecast {
   margin-top: 20px;
   text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.weather-forecast-day {
+  margin: auto;
 }
 
 .weather-forecast-icon {
