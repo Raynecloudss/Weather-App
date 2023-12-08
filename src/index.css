@@ -127,6 +127,7 @@ main {
 
 .weather-forecast-temp {
   padding: 0 10px;
+  font-weight: bolder;
 }
 
 .weather-forecast-temps {
@@ -135,4 +136,9 @@ main {
   margin-top: 10px;
   display: flex;
   justify-content: center;
+}
+
+#max {
+  font-size: 18px;
+  color: #8a5082;
 }
